@@ -7,8 +7,8 @@ const Home = () => {
       <div className={styles.textContainer}>
         <h1 className={styles.title}>Creative Thoughts Agency.</h1>
         <p className={styles.desc}>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero
-          blanditiis adipisci minima reiciendis a autem assumenda dolore.
+          We are a creative agency that focuses on design, development, and
+          marketing.
         </p>
         <div className={styles.buttons}>
           <button className={styles.button}>Learn More</button>
